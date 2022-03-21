@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml
+	xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name>SJ182/SJY182</name>
+		<Folder>
+			<name>Trail</name>
+        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56558,﻿-5.98438,3322.32 106.56558,-5.98438,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>0-1</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56558,-5.98438,3322.32 106.56558,-5.98438,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>1-2</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56558,-5.98438,3322.32 106.56585,-5.98389,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>2-3</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56585,-5.98389,3322.32 106.56558,-5.98438,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>3-4</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56558,-5.98438,3322.32 106.56615,-5.98331,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>4-5</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56615,-5.98331,3322.32 106.56615,-5.98331,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>5-6</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56615,-5.98331,3322.32 106.56672,-5.98196,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>6-7</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56672,-5.98196,3322.32 106.5668765,-5.981485641,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>7-8</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5668765,-5.981485641,3322.32 106.56705,-5.98096,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>8-9</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56705,-5.98096,3322.32 106.56705,-5.98096,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>9-10</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56705,-5.98096,3322.32 106.56705,-5.98096,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>10-11</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56705,-5.98096,3322.32 106.56705,-5.98096,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>11-12</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56705,-5.98096,3322.32 106.5670702,-5.980884697,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>12-13</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5670702,-5.980884697,3322.32 106.56743,-5.97954,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>13-14</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56743,-5.97954,3322.32 106.56743,-5.97954,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>14-15</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56743,-5.97954,3322.32 106.56743,-5.97954,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>15-16</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56743,-5.97954,3322.32 106.5674415,-5.979457054,3322.32</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>16-17</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff00ffff</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5674415,-5.979457054,3322.32 106.5677165,-5.977480645,3299.46</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>17-18</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff03fef8</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5677165,-5.977480645,3299.46 106.5678,-5.97688,3284.22</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>18-19</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff04fef5</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5678,-5.97688,3284.22 106.56781,-5.97605,3268.98</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>19-20</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff07fdee</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56781,-5.97605,3268.98 106.5678101,-5.976048309,3276.6</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>20-21</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff06fdf1</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5678101,-5.976048309,3276.6 106.567815,-5.975971356,3268.98</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>21-22</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff07fdee</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.567815,-5.975971356,3268.98 106.567819,-5.975908778,3276.6</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>22-23</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff06fdf1</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.567819,-5.975908778,3276.6 106.56785,-5.97542,3246.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>23-24</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff09fceb</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56785,-5.97542,3246.12 106.56785,-5.97542,3246.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>24-25</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff09fceb</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56785,-5.97542,3246.12 106.5678177,-5.975246329,3185.16</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>25-26</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff10fadb</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5678177,-5.975246329,3185.16 106.5677369,-5.974810927,3200.4</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>26-27</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff0ffade</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5677369,-5.974810927,3200.4 106.5675479,-5.973793359,3101.34</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>27-28</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff19f7ca</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5675479,-5.973793359,3101.34 106.5675351,-5.973724869,3093.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>28-29</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff1af7c8</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5675351,-5.973724869,3093.72 106.5674852,-5.973455801,3162.3</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>29-30</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff13f9d6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5674852,-5.973455801,3162.3 106.5674293,-5.973154933,3101.34</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>30-31</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff19f7ca</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5674293,-5.973154933,3101.34 106.5674197,-5.973103566,3101.34</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>31-32</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff19f7ca</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5674197,-5.973103566,3101.34 106.5674075,-5.973037522,3093.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>32-33</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff1af7c8</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5674075,-5.973037522,3093.72 106.5673116,-5.9725214,3093.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>33-34</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff1af7c8</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5673116,-5.9725214,3093.72 106.5669009,-5.970310147,2865.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>34-35</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff34efa0</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5669009,-5.970310147,2865.12 106.5668754,-5.970173166,2788.92</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>35-36</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff3aee97</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5668754,-5.970173166,2788.92 106.56686,-5.97009,2903.22</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>36-37</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff30f1a5</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56686,-5.97009,2903.22 106.56654,-5.96906,2781.3</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>37-38</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff3ced95</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56654,-5.96906,2781.3 106.5664581,-5.968827037,2788.92</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>38-39</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff3aee97</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5664581,-5.968827037,2788.92 106.56641,-5.96869,2727.96</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>39-40</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff41ec8f</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56641,-5.96869,2727.96 106.566395,-5.968638037,2781.3</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>40-41</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff3ced95</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.566395,-5.968638037,2781.3 106.5663932,-5.968631542,2781.3</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>41-42</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff3ced95</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5663932,-5.968631542,2781.3 106.5663199,-5.968376925,2727.96</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>42-43</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff41ec8f</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5663199,-5.968376925,2727.96 106.5661779,-5.96788328,2628.9</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>43-44</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff4cea85</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5661779,-5.96788328,2628.9 106.5660922,-5.967585794,2453.64</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>44-45</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff5ce679</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5660922,-5.967585794,2453.64 106.56601,-5.9673,2476.5</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>45-46</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff5ae77a</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56601,-5.9673,2476.5 106.5658961,-5.966967647,2331.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>46-47</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff68e473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5658961,-5.966967647,2331.72 106.5657982,-5.966682353,2324.1</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>47-48</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff68e473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5657982,-5.966682353,2324.1 106.56577,-5.9666,2331.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>48-49</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff68e473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56577,-5.9666,2331.72 106.5657744,-5.96655829,2293.62</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>49-50</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff6be473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5657744,-5.96655829,2293.62 106.5657961,-5.966353034,2324.1</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>50-51</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff68e473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5657961,-5.966353034,2324.1 106.5658026,-5.966291567,2293.62</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>51-52</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff6be473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5658026,-5.966291567,2293.62 106.5658263,-5.966067652,2331.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>52-53</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff68e473</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5658263,-5.966067652,2331.72 106.5658747,-5.965609942,1965.96</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>53-54</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff9de088</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5658747,-5.965609942,1965.96 106.5658845,-5.965517741,1927.86</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>54-55</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffa3e08c</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5658845,-5.965517741,1927.86 106.56592,-5.965181868,1950.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>55-56</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff9fe089</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56592,-5.965181868,1950.72 106.5659344,-5.965045763,1722.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>56-57</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffbadf9b</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5659344,-5.965045763,1722.12 106.5659345,-5.965044665,1722.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>57-58</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffbadf9b</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5659345,-5.965044665,1722.12 106.5659573,-5.96482953,1722.12</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>58-59</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffbadf9b</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5659573,-5.96482953,1722.12 106.5659678,-5.964729647,1851.66</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>59-60</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffabe091</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5659678,-5.964729647,1851.66 106.56599,-5.96452,1645.92</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>60-61</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffc2dfa1</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56599,-5.96452,1645.92 106.5660583,-5.964497487,1485.9</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>61-62</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffcfe0ad</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5660583,-5.964497487,1485.9 106.5673415,-5.964074738,1219.2</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>62-63</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffdfe2c0</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5673415,-5.964074738,1219.2 106.5681144,-5.963820088,998.22</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>63-64</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffe4e2ce</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5681144,-5.963820088,998.22 106.5681175,-5.963819088,998.22</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>64-65</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffe4e2ce</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5681175,-5.963819088,998.22 106.5682131,-5.963787569,1074.42</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>65-66</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffe3e2c9</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5682131,-5.963787569,1074.42 106.56857,-5.96367,868.68</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>66-67</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffe7e3d6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.56857,-5.96367,868.68 106.5690947,-5.963694652,708.66</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>67-68</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffeae6df</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5690947,-5.963694652,708.66 106.5715199,-5.963808584,426.72</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>68-69</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff1efee</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5715199,-5.963808584,426.72 106.5717468,-5.963819244,365.76</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>69-70</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff3f1f0</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5717468,-5.963819244,365.76 106.5718106,-5.963822243,403.86</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>70-71</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff2f0ef</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5718106,-5.963822243,403.86 106.5718319,-5.963823242,563.88</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>71-72</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffedeae6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5718319,-5.963823242,563.88 106.5721155,-5.963836568,358.14</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>72-73</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff3f1f1</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5721155,-5.963836568,358.14 106.5723318,-5.963846728,563.88</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>73-74</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ffedeae6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5723318,-5.963846728,563.88 106.5727714,-5.963867383,358.14</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>74-75</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff3f1f1</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5727714,-5.963867383,358.14 106.5729664,-5.963876544,228.6</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>75-76</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff7f7f6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5729664,-5.963876544,228.6 106.5730161,-5.963878876,228.6</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>76-77</name>
+        </Placemark>        <Placemark>
+            <Style>
+                <LineStyle>
+                    <color>fff7f7f6</color>
+                    <width>2</width>
+                </LineStyle>
+            </Style>
+            <MultiGeometry>
+                <LineString>
+                    <tessellate>1</tessellate>
+                    <altitudeMode>absolute</altitudeMode>
+                    <coordinates>106.5730161,-5.963878876,228.6 106.57453,-5.96395,76.2</coordinates>
+                </LineString>
+            </MultiGeometry>
+            <name>77-78</name>
+        </Placemark>
+		</Folder>
+	</Document>
+</kml>
